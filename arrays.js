@@ -45,6 +45,7 @@ console.log("Opgave 4b", catsArray.find(cat => cat === "Salem"))
 // Udskriv det nye array i konsollen:
 // console.log("Opgave 5", ...)
 
+console.log("Opgave 5")
 numbersArray.map(n => console.log(n * 3))
 
 /*
@@ -58,6 +59,7 @@ console.log("Opgave 5", multipliedArray);
 // (Sådan her: BarneyMollyBaxter...)
 // Udskriv strengen konsollen:
 // console.log("Opgave 6", ...)
+console.log("Opgave 6", dogsArray.join(""))
 
 //     Opgave 7a
 // Find ud af hvilket index "Mango" har i fruitsArray.
