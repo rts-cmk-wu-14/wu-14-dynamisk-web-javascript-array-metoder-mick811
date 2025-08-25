@@ -45,6 +45,14 @@ console.log("Opgave 4b", catsArray.find(cat => cat === "Salem"))
 // Udskriv det nye array i konsollen:
 // console.log("Opgave 5", ...)
 
+numbersArray.map(n => console.log(n * 3))
+
+/*
+another solution
+const multipliedArray = numbersArray.map(n => n * 3);
+console.log("Opgave 5", multipliedArray);
+*/
+
 //     Opgave 6
 // Udskriv alle hundene i dogsArray i én lang streng.
 // (Sådan her: BarneyMollyBaxter...)
